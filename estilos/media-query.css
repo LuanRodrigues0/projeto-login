@@ -19,7 +19,11 @@
     section#login > div#formulario{
         float: right;
         width: 70%;
+        
+        
     }
+
+    
     
 }
 
@@ -51,5 +55,7 @@
         font-size: 1.2em;
 
     }
+
+
     
 }
